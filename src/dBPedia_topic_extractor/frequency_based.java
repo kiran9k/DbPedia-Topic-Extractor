@@ -19,6 +19,10 @@ import edu.stanford.nlp.pipeline.Annotation;
 import edu.stanford.nlp.pipeline.StanfordCoreNLP;
 import edu.stanford.nlp.util.CoreMap;
 
+/**
+ * @author Kiran K 
+ */
+
 public class frequency_based {
 	public static Map<String,Integer> stanford_based_freq(String i)
 	{

@@ -1,6 +1,7 @@
 package dBPedia_topic_extractor;
 
 
+
 import org.apache.commons.collections.MultiMap;
 import org.apache.commons.collections.map.MultiValueMap;
 import org.apache.commons.httpclient.DefaultHttpMethodRetryHandler;
@@ -41,7 +42,9 @@ import java.util.HashSet;
 import java.util.LinkedList;
 import java.util.Map;
 import java.util.Set;
-
+/**
+ * @author Kiran K 
+ */
 
 public class dbPediaSpotlight   
 {

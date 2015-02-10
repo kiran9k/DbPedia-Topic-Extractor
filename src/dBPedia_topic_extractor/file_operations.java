@@ -8,7 +8,9 @@ import java.io.FileNotFoundException;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.io.InputStreamReader;
-
+/**
+ * @author Kiran K 
+ */
 public class file_operations {
 	public static  String read_from_file(String fileName)
 	{   // The name of the file to open.
